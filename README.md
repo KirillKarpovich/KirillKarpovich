@@ -9,7 +9,7 @@
 
 - :telescope: Изучаю iOS-разработку на иностранных курсах и активно обмениваюсь опытом с друзьями, которые уже имеют солидный опыт в разработке
 
-- :zap: Хочу освоить новую проффесию и найти работу.
+- :zap: Хочу освоить новую проффесию и найти работу
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KirillKarpovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/elunxx) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kir.karpovich@gmail.com)
 
