@@ -7,8 +7,6 @@
 
 iOS software engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KirillKarpovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/elunxx) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kir.karpovich@gmail.com)
-
 ---
 
 ### 🤝 Социальные сети:
