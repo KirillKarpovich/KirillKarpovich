@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-iOS software engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+iOS software developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 ---
 
